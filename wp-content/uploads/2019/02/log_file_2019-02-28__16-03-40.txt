@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: NewsCard Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://niru.atozhacks.in
+Data file = /srv/users/serverpilot/apps/test/public/wp-content/themes/newscard/assets/demo-content/default/newscard.xml
+Widget file = /srv/users/serverpilot/apps/test/public/wp-content/themes/newscard/assets/demo-content/default/newscard.wie
+Customizer file = /srv/users/serverpilot/apps/test/public/wp-content/themes/newscard/assets/demo-content/default/newscard.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+TH: Recent Posts - No Title - Imported
+Categories - Categories - Imported
+
+Left Sidebar : 
+
+Search - No Title - Imported
+TH: Recent Posts - No Title - Imported
+Categories - Categories - Imported
+
+Front Page Content Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Card/Block Posts - No Title - Imported
+TH: Horizontal/Vertical Posts - No Title - Imported
+
+Front Page Sidebar Section : 
+
+TH: Horizontal/Vertical Posts - No Title - Imported
+TH: Recent Posts - No Title - Imported
+
+Footer - Column 1 : 
+
+Custom HTML - NewsCard - Imported
+
+Footer - Column 2 : 
+
+Gallery - Gallery - Imported
+
+Footer - Column 3 : 
+
+Categories - Categories - Imported
+
+Footer - Column 4 : 
+
+TH: Recent Posts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
